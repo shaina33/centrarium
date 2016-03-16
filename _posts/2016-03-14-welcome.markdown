@@ -5,7 +5,7 @@ date:   2016-03-14
 author: Shaina Karasin
 categories: Adventures
 tags:	
-cover:  "/assets/instacode.png"
+cover:  "/assets/covers/balloon-sunrise.jpg"
 ---
 Hello and welcome! I’d like to use this first blog post to give you a sense of where I’m coming from and the journey I’ve just embarked upon. I hope you’ll enjoy following my adventures, and perhaps they will inspire one of your own!
 
@@ -18,3 +18,5 @@ I debated for months what this new path should be. I came up with several ideas 
 I’d had a little programming experience while in college, using Python. I’d also seen some self-taught web-dev-savvy colleagues bring a new school software program into existence and use it to powerfully improve our operational abilities. I think these experiences helped to spark my interest and break down the mental barrier to programming, and then Bloc seemed like the perfect way to train for this new field. It’s all delivered online, so it’s available anywhere anytime, and I don’t have to worry about commuting to classes. It takes a very practical project-based approach to learning, so it’s interesting and I know I’m learning real skills. I never have to worry about highlighting a textbook and falling asleep while reading! It also focuses on the skills I’m currently interested in (front & back end web dev), but provides a foundation in general software engineering principles too, so I’ll have the basics I need to tackle new problems in the future. Lastly, but perhaps most importantly, it provides a 1-on-1 mentor; an experienced professional to help me work through everything I’m learning.
 
 Hopefully, you now have a sense of what I’m doing and why. So let’s embark!
+
+cover photo: Shaina Karasin, 2015. Sunrise over the desert, Morocco.
