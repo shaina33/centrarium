@@ -8,7 +8,7 @@ permalink: /about/
 
 <img src="../assets/profile-headshot.png" title="Profile Picture" class="profile">
 
-My name is Shaina Karasin. Welcome to my blog! My background is in neuroscience and international education. I recently left my job to enroll full-time as a student in Bloc's Software Engineering Track program in order to pursue a new career in software & web development. You can read more about this decision in my [first blog post](https://bloc-foundation-shaina33-1.c9users.io/adventures/2016/03/14/welcome.html).
+My name is Shaina Karasin. Welcome to my blog! My background is in neuroscience and international education. I recently left my job to enroll full-time as a student in Bloc's Software Engineering Track program in order to pursue a new career in software & web development. You can read more about this decision in my [first blog post](http://shaina33.github.io/adventures/2016/03/14/welcome.html).
 
 Beyond web development, I also enjoy reading, hiking, running, yoga, and traveling. I'm including one of my photos from my travels with each new blog post.
 
