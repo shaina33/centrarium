@@ -19,7 +19,8 @@ description: >
 baseurl: "/shaina33.github.io" # the subpath of your site, e.g. /blog/
 url: "http://shaina33.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+#logo: "/assets/logo.png"
+logo: "/assets/home_logo.png"
 
 # Build settings
 markdown: kramdown
@@ -93,7 +94,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Shaina Karasin
-    url: hhttps://www.linkedin.com/in/shainakarasin
+    url: https://www.linkedin.com/in/shainakarasin
     desc: Connect with me on LinkedIn
     share: true
 
