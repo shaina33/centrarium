@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The first 2 weeks"
-date:   2016-03-17
+date:   2016-03-16
 author: Shaina Karasin
 categories: Adventures
 tags:	
