@@ -17,7 +17,8 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: # the subpath of your site, e.g. /blog/
-url: "http://shaina33.github.io" # the base hostname & protocol for your site
+# url is the base hostname & protocol for your site
+url:  "http://shaina33.github.io" #development: "https://bloc-foundation-shaina33-1.c9users.io", prod: "http://shaina33.github.io"
 cover: "/assets/header_image.jpg"
 logo: "/assets/home_logo.png"
 
