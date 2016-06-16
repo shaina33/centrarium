@@ -5,7 +5,7 @@ date:   2016-05-04
 author: Shaina Karasin
 categories: Adventures
 tags:	
-cover:  "/assets/covers/seattle-mountains.jpg"
+cover:  "/assets/covers/SF_redwoods.JPG"
 ---
 As I explained in my [last post](/adventures/2016/05/02/why-is-alexa-interesting.html), I recently started developing voice applications, known as Skills, for the Amazon Alexa service. If you have an Alexa device, ask her to open "Learn International Geography" or "Marine Life". In this post, I want to provide you with an overview for how Alexa development works, and some of my thoughts on the process. Developing simple apps is surprisingly straightforward, so I encourage everyone to give it a try!
 
@@ -45,4 +45,4 @@ If you’d like to learn more, these are some great links for getting started:
 
 [Step-by-step instructions to set up a trivia skill]( https://developer.amazon.com/appsandservices/community/post/TxDJWS16KUPVKO/New-Alexa-Skills-Kit-Template-Build-a-Trivia-Skill-in-under-an-Hour)
 
-cover photo: Shaina Karasin, 2013. Hiking near Seattle, WA.
+cover photo: Shaina Karasin, 2015. Redwood trees at Muir Woods National Monument, CA.
