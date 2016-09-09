@@ -9,7 +9,7 @@ cover:  "/assets/covers/balloon-sunrise.jpg"
 ---
 Hello and welcome! I’d like to use this first blog post to give you a sense of where I’m coming from and the journey I’ve just embarked upon. I hope you’ll enjoy following my adventures, and perhaps they will inspire one of your own!
 
-For the last three years, I’ve been working with international students as a member of the administrative teams at intensive English language schools in the Boston area. A few weeks ago, after much deliberation and preparation, I left my job and enrolled full-time in [Bloc’s Software Engineering Track](https://www.bloc.io/software-engineering-track) apprenticeship program. 
+For the last three years, I’ve been working with international students as a member of the administrative teams at intensive English language schools in the Boston area. A few weeks ago, after much deliberation and preparation, I left my job and enrolled full-time in [Bloc’s Software Engineering Track](https://www.bloc.io/software-engineering-track) apprenticeship program. (edit: Bloc now offers the similar Software Developer Career Track program instead of the SET program.) 
 
 Many would agree that this was a bold move and a drastic change of career fields, so they’ve asked me why I made the move, and why I chose to study software and web development. This isn’t a simple question with a single answer, but it primarily comes down to Opportunity. I felt stuck in a box with limited opportunities, and I couldn’t see the path that I was on taking me to where I wanted to go in life. So I decided to take control of my trajectory and switch myself onto a new path.
 
